@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/shreeya36/3-column-preview-card-component-challenge-on-Frontend-Mentor/tree/main)
+- Live Site URL: [Add live site URL here](https://codepen.io/Shreeya_36/pen/abJQrwQ)
 
 
 
